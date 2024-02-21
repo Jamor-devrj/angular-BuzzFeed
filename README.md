@@ -1,3 +1,7 @@
+# PROJETO Angular BuzzFeed
+
+<img src="../angular-BuzzFeed/src/assets/imgs/Animacao55.gif" width="800px">
+
 # AngularBuzzFeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
