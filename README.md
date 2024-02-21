@@ -1,6 +1,8 @@
 # PROJETO Angular BuzzFeed
 
-<img src="../angular-BuzzFeed/src/assets/imgs/Animacao55.gif" width="800px">
+<img src="/src/assets/imgs/Animacao55.gif">
+
+
 
 # AngularBuzzFeed
 
